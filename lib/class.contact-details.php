@@ -97,9 +97,9 @@ final class BirdBrain_Contact_Details {
 				'pinterest' => 'Pinterest',
 				'linkedin' => 'LinkedIn',
 				'youtube' => 'YouTube',
-				'soundcloud' => 'Soundcloud',
-				'myspace' => 'Myspace'
-				
+				'soundcloud' => 'SoundCloud',
+				'myspace' => 'MySpace'
+
 			)
 
 		);
